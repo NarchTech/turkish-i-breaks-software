@@ -24,7 +24,11 @@ Python's `str.lower()` maps `İ` (U+0130) to **two** codepoints — `i` + `U+030
 ## Cite this
 Please cite the **concept DOI** (it always resolves to the latest version):
 
-> _Concept DOI: added on first Zenodo release — see the repository's Zenodo record._
+> Melikoğlu, M., Altınbaş, Y. D., & Tanrıöver, T. (2026). *The Turkish İ Still Breaks Your Software (and Your AI Agents)*. Zenodo. https://doi.org/10.5281/zenodo.22018298
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22018298.svg)](https://doi.org/10.5281/zenodo.22018298)
+
+The archived record carries both language editions as PDFs and a source bundle (Markdown sources, the reference implementation, licences and the citation list).
 
 ## License
 - **Articles / text:** [CC BY 4.0](LICENSE).
